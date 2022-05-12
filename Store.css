@@ -1,0 +1,176 @@
+
+body{
+
+    background-image: url(black\ wall.jpg);
+background-size: cover;
+       background-attachment: fixed;
+}
+
+
+
+.test {
+
+    border: solid 5px red;
+    width: 400px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+    padding: 20px;
+
+text-align: center;
+margin-left: 400px;
+box-shadow: 5px 5px  purple;
+
+
+}
+
+.test1 {
+    color: crimson;
+    font-size: 25px;
+    text-align: center;
+    font-style: oblique;
+text-shadow: 2px 2px 2px aqua;
+
+
+}
+
+
+
+.corner {
+
+    border: solid 5px green;
+    box-shadow: 5px 5px  purple;
+
+
+
+}
+
+
+
+.corner1 {
+    border: red 5px solid;
+    color: black;
+    font-size: 20px;
+    padding: 10px;
+    width: 200px;
+    text-align: center;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+    height: 125px;
+    box-shadow: 5px 5px  purple;
+    text-shadow: 2px 2px 2px yellow;
+
+}
+
+
+
+
+.right {
+    border: solid red 5px;
+    width: 200px;
+
+    text-align: center;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+    position: relative;
+    left: 1000px;
+    bottom: 170px;
+    box-shadow: 5px 5px  purple;
+    
+
+}
+
+
+.last {
+    border: solid red 5px;
+    width: 200px;
+    text-align: center;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+    position: relative;
+    bottom: 180px;
+    left: 1000px;
+    padding: 5px;
+    box-shadow: 5px 5px  purple;
+    text-shadow: 2px 2px 2px yellow;
+
+}
+
+
+.pre {
+    color: brown;
+    background-color: yellowgreen;
+    border: solid red 5px;
+    width: fit-content;
+    font-size: larger;
+    font-style: oblique;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+    padding: 10px;
+    position: fixed;
+    bottom: 10px;
+    left: 500px;
+    box-shadow: 5px 5px  purple;
+
+}
+
+.green{
+
+    border: solid 5px brown;
+    margin-top: 5px;
+margin-left:200px;
+margin-right: 200px;
+
+text-align: center;
+    background-color: green;
+    font-style: italic;
+
+}
+
+.fru{
+    background-color: yellow;
+    width: 450px;
+    height: 200px;
+    text-align: center;
+    margin-bottom: 80px;
+font-style: italic;
+}
+
+.veg{
+    margin-left: 470px;
+    margin-top: -280px;
+    background-color: yellow;
+    text-align: center;
+    width: 450px;
+    height: 200px;
+    font-style: italic;
+
+}
+
+.oth{
+
+    background-color: yellow;
+    margin-top: -5px;
+    height: 150px;
+    font-style: italic;
+
+}
+
+
+
+
+
+
+
+
+
+
